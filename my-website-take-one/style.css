@@ -1,0 +1,9 @@
+/*   HEADER     */
+
+.fullnameintro h2 {
+    color: #333;
+    font: serif;
+    scroll-snap-type: auto;
+    scroll-snap-points-x: flex-end;
+    scroll-snap-points-y: flex-end;
+}
